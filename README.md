@@ -6,9 +6,9 @@ Hello-World
 -Description
 ### Description
 *This is a practice using GitHub by creating a sample repository.*
-## ***How to run program***
+## **_How to run program_**
 
-Hello_World/
+Hello_World
 
 └──
 
