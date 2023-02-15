@@ -38,5 +38,5 @@ Datafile considerations
 
 URL links to files - example here: [100 Smartest Dog Breeds](https://thesmartcanine.com/dog-breeds/smartest-dog-breeds-list/).
 
-![Hello-World Image](https://www.pexels.com/photo/two-yellow-labrador-retriever-puppies-1108099/).
+## ~~Nice to meet you!~~ See you again soon! Thanks!
   
