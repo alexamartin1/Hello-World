@@ -34,5 +34,5 @@ What is contained within the data files?
 
 Datafile considerations
 
-URL links to files - example here: [100 Smartest Dog Breeds] (https://thesmartcanine.com/dog-breeds/smartest-dog-breeds-list/)
+URL links to files - example here: [100 Smartest Dog Breeds](https://thesmartcanine.com/dog-breeds/smartest-dog-breeds-list/).
   
